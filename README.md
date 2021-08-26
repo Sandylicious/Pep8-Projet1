@@ -1,1 +1,2 @@
 # Serpentin
+Ce programme represente un jeu de serpent. L'objectif est de pouvoir retracer le parcours d'un ou de plusieurs morceaux de sepent a partir de la case A5 jusqu'a la case R5. Pour ce faire, le joueur doit saisir des caracteres valides afin de tracer le parcours de chaque morceau de serpent ([A] a [R] pour les colonnes, [1] a [9] pour les rangees, [-] pour continuer tout droit, [g] pour tourner a gauche et [d] pour tourner a droit). Et des qu'il y a une connection entre A5 et R5, le programme affiche le score et s'arrete.
