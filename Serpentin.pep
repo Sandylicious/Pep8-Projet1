@@ -7,8 +7,8 @@
 ; continuer tout droit, [g] pour tourner a gauche et [d] pour tourner a droit). Et des qu'il
 ; y a une connection entre A5 et R5, le programme affiche le score et s'arrete.
 ; 
-; Authors: XRF
-;          SCA
+; Authors: Fang, Xin Ran
+;          Ah-Lan, Steven Chia
 ;
 ;********************* PARTIE 1 SUR 3 : INITIALISATION DE L'ESPACE DU JEU ET AFFICHAGE DU JEU
 main:    LDA     0,i
